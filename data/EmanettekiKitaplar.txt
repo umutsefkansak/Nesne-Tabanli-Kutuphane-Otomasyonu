@@ -1,2 +1,2 @@
-1;Nutuk;Mustafa Kemal Atatürk;Roman;154;Umut Sefkan SAK;16/10/2022;18/10/2022;
+1;Şeker Portakalı;Jose Maruo;Roman;154;Metin DEMİR;16/10/2022;31/10/2022;
 
