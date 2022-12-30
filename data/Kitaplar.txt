@@ -1,0 +1,15 @@
+1;Nutuk;Mustafa Kemal Atatürk;Tarihi;547;7;
+2;Robin Hood;Howard Pyle;Macera;144;5;
+3;Peter Pan;J.M. Barrie;Roman;144;6;
+4;Yaprak Dökümü;R. Nuri Güntekin;Roman;134;10;
+5;Romeo ve Juliet;William Shakespeare;Tiyatro;133;5;
+6;Yüzüklerin Efendisi;J.R.R. Tolkien;Fantastik Kurgu;1346;3;
+7;Kara Kitap;Orhan Pamuk;Roman;476;12;
+8;Eylül;Mehmet Rauf;Roman;256;8;
+9;Aylak Adam;Yusuf Atılgan;Roman;156;7;
+10;Simyacı;Paulo Coelho;Roman;188;15;
+11;Da Vinci Şifresi;Dan Brown;Roman;528;3;
+12;Harry Potter ve Felsefe Taşı;J.K Rowling;Roman;274;6;
+13;Mai ve Siyah;Halit Ziya Uşaklıgil;Roman;328;2;
+14;Değirmen;Sabahattin Ali;Hikaye;140;5;
+15;Şeker Portakalı;Jose Mauro;Roman;132;6;
